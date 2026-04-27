@@ -1,7 +1,0 @@
-﻿{
-  "chatgpt.openOnStartup": true,
-  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
-  "github.copilot.enable": {
-    "*": true
-  }
-}
