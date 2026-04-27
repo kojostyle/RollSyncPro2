@@ -1,0 +1,50 @@
+/* ===== 共通 ===== */
+body {
+    background-color: #111111;
+    color: #e0e0e0;
+}
+
+.big-speed {
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #66ccff;
+}
+
+.big-diff {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.diff-ok {
+    color: #99ff99;
+}
+
+.diff-ng {
+    color: #ff6666;
+}
+
+.roll-title {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.field-label {
+    font-size: 0.9rem;
+    color: #cccccc;
+}
+
+.risk-low {
+    color: #99ff99;
+    font-size: 1.2rem;
+}
+
+.risk-mid {
+    color: #ffcc66;
+    font-size: 1.2rem;
+}
+
+.risk-high {
+    color: #ff6666;
+    font-size: 1.2rem;
+}

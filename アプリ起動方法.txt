@@ -1,0 +1,7 @@
+﻿【起動手順】
+1. コマンドプロンプトまたはPowerShellを開く
+2. 次を実行する
+   cd /d E:\kojopython\roll_app
+   streamlit run app.py
+
+
