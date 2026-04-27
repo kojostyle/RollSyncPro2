@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*$py.class
+
+.venv/
+venv/
+
+.streamlit/
+.vscode/
+
+.DS_Store
+*.log
+.cache/
+.pytest_cache/
+
+.snapshots/
+rollgazou/
